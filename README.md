@@ -2,7 +2,7 @@
 
 ## Prereqs
 
-Install the dependencies, then download a copy of [MaxMind's GeoLite City DB](http://dev.maxmind.com/geoip/legacy/geolite/) (which will probably end up being named `GeoLiteCity.dat.`). You'll also need a file enumerating IP addresses that you want to geolocate. This should be a plain UTF-8 text file separating addresses by line breaks:
+Install the dependencies, then download a copy of [MaxMind's GeoLite City DB](http://dev.maxmind.com/geoip/legacy/geolite/) (which will probably end up being named `GeoLiteCity.dat`). You'll also need a file enumerating IP addresses that you want to geolocate. This should be a plain UTF-8 text file separating addresses by line breaks:
 
 ```
 x.x.x.x
