@@ -1,0 +1,24 @@
+{
+  "name": "ipgeobulk",
+  "version": "0.0.0",
+  "description": "A utility to bulk-geolocate a list of IP addresses",
+  "main": "ipgeobulk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jprystowsky/ipgeobulk"
+  },
+  "author": "jprystowsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprystowsky/ipgeobulk/issues"
+  },
+  "homepage": "https://github.com/jprystowsky/ipgeobulk",
+  "dependencies": {
+    "json2csv": "^2.2.1",
+    "maxmind": "^0.5.5",
+    "minimist": "^1.1.1"
+  }
+}
